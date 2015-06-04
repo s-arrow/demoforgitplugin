@@ -1,6 +1,3 @@
-/**
- * 
- */
 package gitdemo;
 
 public class DemoClass {
